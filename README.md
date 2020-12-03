@@ -5,7 +5,7 @@ This is originally for UC 2020 Parallel Computing course final project.
 
 
 
-![MCL](https://github.com/frankligy/numbaMCL/blob/main/figures/figure1)
+![MCL](https://github.com/frankligy/numbaMCL/blob/main/figures/figure1.png)
 
 ## Dependency
 - Sequential CPU version
@@ -27,7 +27,7 @@ For the code
 ```
 
 ## Parallel Strategies
-![strategy](https://github.com/frankligy/numbaMCL/blob/main/figures/figure2)
+![strategy](https://github.com/frankligy/numbaMCL/blob/main/figures/figure2.png)
 
 ## Contact
 Guangyuan(Frank) Li
